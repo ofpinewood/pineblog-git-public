@@ -1,4 +1,4 @@
-{[
+[
   {
     "UserName": "john.smith@example.com",
     "Email": "john.smith@example.com",
@@ -13,4 +13,4 @@
     "Bio": "The bio of Mary Smith",
     "Avatar": "images/avatar-female.png",
   }
-]}
+]
