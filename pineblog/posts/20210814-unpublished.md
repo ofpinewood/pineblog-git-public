@@ -3,7 +3,7 @@
     "Slug": "unpublished-post",
     "Description": "Unpublished post.",
     "Categories": "pineblog,unpublished,blog,demo",
-    "Author": "mary.smith@example.com",
+    "AuthorId": "mary.smith@example.com",
     "Published": null
 }
 <<< END METADATA
