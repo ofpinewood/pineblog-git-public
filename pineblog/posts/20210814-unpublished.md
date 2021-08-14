@@ -6,5 +6,6 @@
     "Author": "mary.smith@example.com",
     "Published": null
 }
+<<< END METADATA
 
 This is an unpublished post.
