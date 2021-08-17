@@ -1,0 +1,16 @@
+[
+  {
+    "UserName": "john.smith@example.com",
+    "Email": "john.smith@example.com",
+    "DisplayName": "John Smith",
+    "Bio": "The bio of John Smith",
+    "Avatar": "images/avatar-male.png",
+  },
+  {
+    "UserName": "mary.smith@example.com",
+    "Email": "mary.smith@example.com",
+    "DisplayName": "Mary Smith",
+    "Bio": "The bio of Mary Smith",
+    "Avatar": "images/avatar-female.png",
+  }
+]
